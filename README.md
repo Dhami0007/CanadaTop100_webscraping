@@ -1,2 +1,2 @@
-# CanadaTop100_webscraping
-This is a small project I am building to get Canada's Top 100 employers list and create a CSV file from it.
+# Canada Top 100 Employers
+This is a small Web scraping project I developed to help me scrape the List of all the Top 100 employers in Canada, and make a CSV file from it.
